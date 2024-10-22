@@ -20,5 +20,6 @@
 #
 # See https://github.com/OCA/odoo-community.org/blob/master/website/Contribution/CONTRIBUTING.rst#oca-dependencies-txt
 #reporting-engine https://github.com/OCA/reporting-engine 15.0
-account-payment https://github.com/ingadhoc/account-payment 15.0
+#account-payment https://github.com/ingadhoc/account-payment 15.0
+account-payment https://github.com/macagua/account-payment 15.0-setuptools-odoo
 account-financial-tools https://github.com/ingadhoc/account-financial-tools 15.0
